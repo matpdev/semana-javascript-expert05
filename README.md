@@ -1,8 +1,8 @@
 # Google Drive Clone - Semana JS Expert 5.0
 
-Seja bem vindo(a) à quinta Semana Javascript Expert. Este é o código inicial para iniciar nossa jornada.
+Esse aqui é um projeto criado pelo Erick Wendel!
 
-Marque esse projeto com uma estrela 🌟
+Um projeto completo de um clone do Google Drive totalmente funcional!
 
 ## Preview
 
@@ -27,7 +27,7 @@ Marque esse projeto com uma estrela 🌟
 
 
 
-## Desafios para alunos pós projeto
+<!-- ## Desafios para alunos pós projeto
 
 1. *Backend*: Salvar o arquivo na AWS ou qualquer serviço de storage
      - Nosso projeto hoje armazena arquivos em disco. o desafio é você via Stream, fazer upload para algum serviço na nuvem
@@ -36,18 +36,18 @@ Marque esse projeto com uma estrela 🌟
     - Você aprendeu como fazer testes no backend. Usar o mesmo processo para criar testes unitários no frontend com Jest 
     - Caso tenha duvidas, acesse o [exemplo](https://github.com/ErickWendel/tdd-frontend-example) e deixe uma estrela!
 3. *Infraestrutura*: Publicar aplicação com seu SSL customizado em máquina virtual
-    - Você aprendeu a gerar SSL local, o desafio é você criar um certificado (pode ser com o *Let's Encrypt*) e adicionar na sua aplicação
-
+    - Você aprendeu a gerar SSL local, o desafio é você criar um certificado (pode ser com o *Let's Encrypt*) e adicionar na sua aplicação -->
+<!-- 
 ### Considerações
 - Tire suas dúvidas sobre os desafios em nossa comunidade, o objetivo é você aprender de forma divertida. Surgiu dúvidas? Pergunte por lá!
 
-- Ao completar qualquer um dos desafios, envie no canal **#desafios** da comunidade no **Discord**
+- Ao completar qualquer um dos desafios, envie no canal **#desafios** da comunidade no **Discord** -->
 
 ## Créditos ao Layout <3
 
 - O Layout foi adaptado a partir do projeto do brasileiro [Leonardo Santo](https://github.com/leoespsanto) disponibilizado no [codepen](https://codepen.io/leoespsanto/pen/KZMMKG). 
 
-## FAQ 
+<!-- ## FAQ 
 - `NODE_OPTIONS` não é um comando reconhecido pelo sistema, o que fazer?
     - Se você estiver no Windows, a forma de criar variáveis de ambiente é diferente. Você deve usar a palavra `set` antes do comando. 
     - Ex: `    "test": "set NODE_OPTIONS=--experimental-vm-modules && npx jest --runInBand",`
@@ -57,4 +57,4 @@ Marque esse projeto com uma estrela 🌟
     - Você pode clicar em prosseguir no browser e usar o certificado invalido que o projeto vai continuar funcionando, mas se quiser gerar o seu próprio, escrevi o passo a passo em [./certificates](./certificates)
 
 - Rodei `npm test` mas nada acontece, o que fazer?
-    - Verifique a versão do seu Node.js. Estamos usando na versão 16.8. Entre no [site do node.js](https://nodejs.org) e baixe a versão mais recente.
+    - Verifique a versão do seu Node.js. Estamos usando na versão 16.8. Entre no [site do node.js](https://nodejs.org) e baixe a versão mais recente. -->
